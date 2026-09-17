@@ -7,6 +7,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/emulated-robot" />
             <option value="$PROJECT_DIR$/sdk-api" />
             <option value="$PROJECT_DIR$/sdk-runtime" />
           </set>
